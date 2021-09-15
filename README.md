@@ -6,14 +6,14 @@
   I graduated at <b>Sakarya University</b> Computer Science. 
 </p>
  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sametkusbey&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <div align="center">
+   <img  src="https://github-readme-stats.vercel.app/api?username=sametkusbey&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+     <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e47zu4czjrp4ji05nntbos3sxk4khsyc4989u3zxf13&rid=giphy.gif&ct=g" >
+  </div>
+   
 
-    
+      
 
-  </p>
-  <p align="center">
-     <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e47zu4czjrp4ji05nntbos3sxk4khsyc4989u3zxf13&rid=giphy.gif&ct=g">
-  </p>
+  
  
 </article>
